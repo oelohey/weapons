@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/black_dye"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":10001}, "model": "item/reaper_incantation_bottom"},
+    {"predicate": {"custom_model_data":10002}, "model": "item/reaper_incantation_middle"},
+    {"predicate": {"custom_model_data":10003}, "model": "item/reaper_incantation_top"},
+    {"predicate": {"custom_model_data":10004}, "model": "item/ghost"},
+    {"predicate": {"custom_model_data":10005}, "model": "item/ghost_plant"},
+    {"predicate": {"custom_model_data":10006}, "model": "item/icicle"},
+    {"predicate": {"custom_model_data":10007}, "model": "item/ice_lance"},
+    {"predicate": {"custom_model_data":10008}, "model": "item/hail"}
+  ]
+}

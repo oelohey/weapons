@@ -1,0 +1,33 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/blood_drop.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/empty_drop.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/dragon_blood_drop.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/empty_slot.png",
+            "ascent": -16,
+            "height": 9,
+            "chars": ["\uE015"]
+        }
+    ]
+}
+
