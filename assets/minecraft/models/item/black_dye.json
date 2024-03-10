@@ -11,6 +11,6 @@
     {"predicate": {"custom_model_data":10005}, "model": "item/ghost_plant"},
     {"predicate": {"custom_model_data":10006}, "model": "item/icicle"},
     {"predicate": {"custom_model_data":10007}, "model": "item/ice_lance"},
-    {"predicate": {"custom_model_data":10008}, "model": "item/hail"}
+    {"predicate": {"custom_model_data":10008}, "model": "item/blood_brimstone"}
   ]
 }
